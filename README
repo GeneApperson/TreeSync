@@ -1,0 +1,13 @@
+----------------------------------------------------
+TreeSync - Folder Tree Synchronization Utility
+----------------------------------------------------
+
+This program examines the contents of a a source folder
+tree and a destination folder tree. It updates the destination
+with files from the source that are not found in the destination
+or are different than the file in the destination and newer.
+
+It includes a scripting language that allows scripting a sequence
+of syncronization operations to be performed.
+
+-----------------------------------------------------
